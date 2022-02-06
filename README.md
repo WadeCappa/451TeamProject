@@ -3,6 +3,9 @@
 * `parseJSON_sample.py` : Sample code for parsing Yelp data
 * `yelpdata_sampleoutput.zip` : Sample parsed output of the given Yelp dataset. 
 
+#Team Members
+* Pierce Cappa - 11570387
+
 
 
 
